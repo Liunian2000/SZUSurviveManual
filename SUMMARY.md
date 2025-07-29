@@ -1,3 +1,3 @@
 # Table of contents
 
-* [SZUSurviveManual](README.md)
+* [深圳大学生存手册（飞越手册）](README.md)
